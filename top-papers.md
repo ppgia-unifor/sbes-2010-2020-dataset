@@ -1,6 +1,6 @@
 # Top-3 SBES papers (2010-2020)
 
-The table below lists the top-3 most cited SBES papers from 2010 to 2020. This tables is also available as a [csv file](sbes2010-2020-top-3-papers.csv). 
+The table below lists the top-3 most cited SBES papers from 2010 to 2020. This table is also available as a [csv file](sbes2010-2020-top-3-papers.csv). 
 
 Note: the citation data used to rank the SBES papers was extracted from Google Scholar in March 2022. 
 
