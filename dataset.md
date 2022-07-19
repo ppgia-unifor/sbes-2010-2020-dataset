@@ -1,6 +1,6 @@
 # SBES 2010 - 2020 language and citations dataset
 
-This dataset is availanle as a [csv file](sbes-2010-2020-dataset.csv). It contains the language and citation data for all the papers published in the Research Track of the Brazilian Symposium on Software Engineering (SBES) from 2010 to 2020. The dataset was created in March 2022 by semi-automatically collecting, verifying and classifying SBES publication and citation data from dblp and Google Scholar, respectively. Please note the any pertinent citation data made available by Google Scholar after that date is NOT included in the dataset.
+This dataset is availanle as a [csv file](sbes2010-2020-dataset.csv). It contains the language and citation data for all the papers published in the Research Track of the Brazilian Symposium on Software Engineering (SBES) from 2010 to 2020. The dataset was created in March 2022 by semi-automatically collecting, verifying and classifying SBES publication and citation data from dblp and Google Scholar, respectively. Please note the any pertinent citation data made available by Google Scholar after that date is NOT included in the dataset.
 
 The dataset contains the following data items:
 
