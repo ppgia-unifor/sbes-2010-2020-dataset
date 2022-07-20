@@ -5,7 +5,7 @@ The table below lists the top-3 most cited SBES papers from 2010 to 2020. This t
 Note: the citation data used to rank the SBES papers was extracted from Google Scholar in March 2022. 
 
 year | rank | title | authors | language| total valid citations | self-citations (%) | nat. citations (%) | int. citations (%)
---- | --- | --- | --- | :---: | :---: | :---: | :---: | :---:
+:---: | :---: | --- | --- | :---: | :---: | :---: | :---: | :---:
 2010 | #1 | A Study of the Relationships between Source Code Metrics and Attractiveness in Free Software Projects | Paulo Meirelles, Carlos Denner Santos Jr., João Miranda, Fabio Kon, Antonio Soares de Azevedo Terceiro, Christina Chavez | english | 72 | 12 (17%) | 24 (33%) | 36 (50%) 
 &nbsp; | #2 | Identifying Code Smells with Multiple Concern Views | Glauco de Figueiredo Carneiro, Marcos Silva, Leandra Mara, Eduardo Figueiredo, Cláudio Sant'Anna, Alessandro F. Garcia, Manoel G. Mendonça | english | 67 | 38 (57%) | 6 (9%) | 23 (34%) 
 &nbsp; | #3 | An Empirical Study on the Structural Complexity Introduced by Core and Peripheral Developers in Free Software Projects | Antonio Soares de Azevedo Terceiro, Luiz Romário Rios, Christina Chavez | english | 40 | 3 (8%) | 9 (22%) | 28 (70%) 
