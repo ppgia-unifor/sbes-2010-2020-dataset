@@ -1,6 +1,6 @@
 # SBES 2010-2020 dataset and complimentary material
 
-This repository contains the [language and citation dataset](dataset.md) for the papers published in the Research Track of the Brazilian Symposium on Software Engineering (SBES) from 2010 to 2020. The repository also contains complimentary material related to this dataset, such as the list of the [top-3 most cited SBES papers](top-papers.md) in each year from that period. 
+This repository contains the [language and citation dataset](dataset.md) for the papers published in the Research Track of the Brazilian Symposium on Software Engineering (SBES) from 2010 to 2020. The repository also contains complimentary material related to this dataset, such lists of the [top-3 most cited SBES papers](top-papers.md) in each year from that period, ranked based on multiple criteria. 
 
 These dataset and complementary material were created as part of the study described in the paper [Uma Década de Internacionalização do SBES: O Bom, O Mau, e O Feio](SBES2022-paper-final.pdf), accepted in the Research Track of SBES 2022.
 
