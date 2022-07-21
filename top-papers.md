@@ -6,11 +6,11 @@ The three tables below list the top-15 most cited papers in the SBES research tr
 * number of citations by the Brazilian community (excluding self-citations)
 * total number of citations overall (including self-citations)
 
-Click [here](top-papers-by-year) to view the top-3 most cited papers of each year according to the above metrics.
+You can also view the [top-3 most cited papers of each year](top-papers-by-year) according to the above metrics.
 
 Note: the citation dataset used to rank the SBES papers was extracted from Google Scholar in March 2022. This dataset was subquently double-checked manually to remove all invalid citations.
 
-## Citations by the international community
+## Top-15 most cited papers based on citations by the international community
 
 rank | year | title | authors | language| int. citations
 :---: | :---: | --- | --- | :---: | :---: 
@@ -38,7 +38,7 @@ rank | year | title | authors | language| int. citations
 #20 | 2014 | A Systematic Review on the Use of Ontologies in Requirements Engineering | Diego Dermeval, Jéssyka Vilela, Ig Ibert Bittencourt, Jaelson Castro, Seiji Isotani, Patrick Henrique da S. Brito | english | 14
 -->
 
-## Citations by the Brazilian community
+## Top-15 most cited papers based on citations by the Brazilian community
 
 year | rank | title | authors | language| nat. citations
 :---: | :---: | --- | --- | :---: | :---: 
@@ -67,7 +67,7 @@ year | rank | title | authors | language| nat. citations
 #20 | 2019 | Factors Affecting Software Development Productivity: An empirical study | Edna Dias Canedo, Giovanni Almeida Santos | english | 6
 -->
 
-## Total citations
+## Top-15 most cited papers overall
 
 rank | year | title | authors | language| total citations | self-citations (%) | nat. citations (%) | int. citations (%)
 :---: | :---: | --- | --- | :---: | :---: | :---: | :---: | :---:
