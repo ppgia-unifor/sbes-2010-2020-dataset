@@ -1,16 +1,16 @@
-# Top-20 SBES papers (2010-2020)
+# Most cited SBES papers (2010-2020)
 
-The three tables below list the top-20 most cited papers in the SBES research track from 2010 to 2020 according to the following metrics: 
+The three tables below list the top-15 most cited papers in the SBES research track from 2010 to 2020 according to the following metrics: 
 
-* total number of citations from the international community (excluding self-citations)
-* total number of citations from the Brazilian community (excluding self-citations)
+* number of citations by the international community (excluding self-citations)
+* number of citations by the Brazilian community (excluding self-citations)
 * total number of citations overall (including self-citations)
 
 Click [here](top-papers-by-year) to view the top-3 most cited papers of each year according to the above metrics.
 
 Note: the citation dataset used to rank the SBES papers was extracted from Google Scholar in March 2022. This dataset was subquently double-checked manually to remove all invalid citations.
 
-## Top-20 most cited SBES papers within the international community
+## Citations by the international community
 
 rank | year | title | authors | language| int. citations
 :---: | :---: | --- | --- | :---: | :---: 
@@ -29,14 +29,16 @@ rank | year | title | authors | language| int. citations
 #13 | 2017 | Investigating the Effectiveness of Peer Code Review in Distributed Software Development | Eduardo Witter dos Santos, Ingrid Nunes | english | 17
 #14 | 2015 | A Method to Derive Metric Thresholds for Software Product Lines | Gustavo Andrade Do Vale, Eduardo Magno Lages Figueiredo | english | 17
 #15 | 2015 | An Experiment on Process Model Understandability Using Textual Work Instructions and BPMN Models | Raphael De A. Rodrigues, Márcio de Oliveira Barros, Kate Revoredo, Leonardo Guerreiro Azevedo, Henrik Leopold | english | 17
+<!---
 #16 | 2011 | A Model for the Evaluation of Educational Games for Teaching Software Engineering | Rafael Savi, Christiane Gresse von Wangenheim, Adriano Ferreti Borgatto | portuguese | 17
 #17 | 2017 | How Has the Health of Software Ecosystems Been Evaluated?: A Systematic Review | Simone da Silva Amorim, Félix Simas De Souza Neto, John D. McGregor, Eduardo Santana de Almeida, Christina von Flach G. Chavez | english | 16
 #18 | 2018 | A machine learning approach to generate test oracles | Ronyérison Braga, Pedro de Alcântara dos Santos Neto, Ricardo de Andrade Lira Rabelo, José Santiago, Matheus Souza | english | 15
 #19 | 2013 | Prioritization of Code Anomalies Based on Architecture Sensitiveness | Roberta Arcoverde, Everton T. Guimarães, Isela Macia Bertran, Alessandro Garcia, Yuanfang Cai | english | 15
 #20 | 2011 | Analyzing Refactorings on Software Repositories | Gustavo Soares, Bruno Catao, Catuxe Varjao, Solon Aguiar, Rohit Gheyi, Tiago Massoni | english | 14
 #20 | 2014 | A Systematic Review on the Use of Ontologies in Requirements Engineering | Diego Dermeval, Jéssyka Vilela, Ig Ibert Bittencourt, Jaelson Castro, Seiji Isotani, Patrick Henrique da S. Brito | english | 14
+-->
 
-## Top-20 most cited SBES papers within the Brazilian community
+## Citations by the Brazilian community
 
 year | rank | title | authors | language| nat. citations
 :---: | :---: | --- | --- | :---: | :---: 
@@ -55,6 +57,7 @@ year | rank | title | authors | language| nat. citations
 #13 | 2011 | Analyzing Refactorings on Software Repositories | Gustavo Soares, Bruno Catao, Catuxe Varjao, Solon Aguiar, Rohit Gheyi, Tiago Massoni | english | 8
 #14 | 2017 | How does refactoring affect internal quality attributes?: A multi-project study | Alexander Chávez, Isabella Ferreira, Eduardo Fernandes, Diego Cedrim, Alessandro Garcia | english | 8
 #15 | 2010 | Software Reuse versus Stability: Evaluating Advanced Programming Techniques | Francisco Dantas, Alessandro F. Garcia | english | 7
+<!---
 #16 | 2017 | How Has the Health of Software Ecosystems Been Evaluated?: A Systematic Review | Simone da Silva Amorim, Félix Simas De Souza Neto, John D. McGregor, Eduardo Santana de Almeida, Christina von Flach G. Chavez | english | 7
 #17 | 2010 | Built-In Structural Testing of Web Services | Marcelo Medeiros Eler, Márcio Eduardo Delamaro, José Carlos Maldonado, Paulo César Masiero | english | 7
 #18 | 2014 | A Systematic Review on the Use of Ontologies in Requirements Engineering | Diego Dermeval, Jéssyka Vilela, Ig Ibert Bittencourt, Jaelson Castro, Seiji Isotani, Patrick Henrique da S. Brito | english | 6
@@ -62,8 +65,9 @@ year | rank | title | authors | language| nat. citations
 #20 | 2015 | An Experiment on Process Model Understandability Using Textual Work Instructions and BPMN Models | Raphael De A. Rodrigues, Márcio de Oliveira Barros, Kate Revoredo, Leonardo Guerreiro Azevedo, Henrik Leopold | english | 6
 #20 | 2010 | Identifying Code Smells with Multiple Concern Views | Glauco de Figueiredo Carneiro, Marcos Silva, Leandra Mara, Eduardo Figueiredo, Cláudio Sant'Anna, Alessandro F. Garcia, Manoel G. Mendonça | english | 6
 #20 | 2019 | Factors Affecting Software Development Productivity: An empirical study | Edna Dias Canedo, Giovanni Almeida Santos | english | 6
+-->
 
-## Top-20 most cited SBES papers overall
+## Total citations
 
 rank | year | title | authors | language| total citations | self-citations (%) | nat. citations (%) | int. citations (%)
 :---: | :---: | --- | --- | :---: | :---: | :---: | :---: | :---:
@@ -82,9 +86,11 @@ rank | year | title | authors | language| total citations | self-citations (%) |
 #13 | 2012 | Software Engineering for the Cloud: A Research Roadmap | Elias Adriano Nogueira da Silva, Daniel Lucrédio | english | 35 | 5 (14%) | 3 (9%) | 27 (77%)
 #14 | 2014 | When Code-Anomaly Agglomerations Represent Architectural Problems? An Exploratory Study | Willian Nalepa Oizumi, Alessandro Fabricio Garcia, Thelma Elita Colanzi, Manuele Ferreira, Arndt von Staa | english | 31 | 12 (39%) | 8 (26%) | 11 (35%)
 #15 | 2012 | Heuristic Strategies for Recommendation of Exception Handling Code | Eiji Adachi Barbosa, Alessandro Garcia, Mira Mezini | english | 29 | 7 (24%) | 4 (14%) | 18 (62%)
+<!---
 #16 | 2013 | Prioritization of Code Anomalies Based on Architecture Sensitiveness | Roberta Arcoverde, Everton T. Guimarães, Isela Macia Bertran, Alessandro Garcia, Yuanfang Cai | english | 29 | 13 (45%) | 1 (3%) | 15 (52%)
 #17 | 2014 | Categorizing Faults in Exception Handling: A Study of Open Source Projects | Eiji Adachi Barbosa, Alessandro F. Garcia, Simone Diniz Junqueira Barbosa | english | 28 | 6 (21%) | 10 (36%) | 12 (43%)
 #18 | 2011 | Analyzing Refactorings on Software Repositories | Gustavo Soares, Bruno Catao, Catuxe Varjao, Solon Aguiar, Rohit Gheyi, Tiago Massoni | english | 28 | 6 (21%) | 8 (29%) | 14 (50%)
 #19 | 2011 | On the Interplay between Structural and Logical Dependencies in Open-Source Software | Gustavo Ansaldi Oliva, Marco Aurélio Gerosa | english | 26 | 11 (42%) | 4 (15%) | 11 (42%)
 #20 | 2010 | Built-In Structural Testing of Web Services | Marcelo Medeiros Eler, Márcio Eduardo Delamaro, José Carlos Maldonado, Paulo César Masiero | english | 26 | 8 (31%) | 7 (27%) | 11 (42%)
 #20 | 2012 | Towards an Explanatory Theory of Motivation in Software Engineering: A Qualitative Case Study of a Small Software Company | A. César C. França, David E. S. Carneiro, Fabio Q. B. da Silva | english | 26 | 4 (15%) | 2 (8%) | 20 (77%)
+-->
