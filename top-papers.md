@@ -6,7 +6,7 @@ The three tables below list the top-3 most cited papers in the SBES research tra
 * total number of citations from the Brazilian community (excluding self-citations)
 * total number of citations overall (including self-citations)
 
-Note: the citation data used to rank the SBES papers was extracted from Google Scholar in March 2022 and was manually double-checked to remove invalid citations.
+Note: the citation data used to rank the SBES papers was extracted from Google Scholar in March 2022 and was double-checked manually to remove invalid citations.
 
 ## Top-3 most cited SBES papers within the international community
 
