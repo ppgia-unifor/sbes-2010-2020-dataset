@@ -6,7 +6,7 @@ The three tables below list the top-15 most cited papers in the SBES research tr
 * number of citations by the Brazilian community (excluding self-citations)
 * total number of citations overall (including self-citations)
 
-You can also view the [top-3 most cited papers of each year](top-papers-by-year) according to the above metrics.
+You can also view the [top-3 most cited papers of each year](top-papers-by-year.md) according to the above metrics.
 
 Note: the citation dataset used to rank the SBES papers was extracted from Google Scholar in March 2022. This dataset was subquently double-checked manually to remove all invalid citations.
 
