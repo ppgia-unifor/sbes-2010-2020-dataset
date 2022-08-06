@@ -12,5 +12,5 @@ This repository was created and is maintained by [Nabor C. Mendonça](https://si
 * [Uirá Kulesza](https://www.dimap.ufrn.br/~uira/), from Federal University of Rio Grande do Norte (UFRN)
 * [César França](https://about.me/cesarfranca), from Rural Federal University of Pernambuco (UFRPE) and CESAR School
 * [Daniel Lucrédio](http://www2.dc.ufscar.br/~daniel/), from Federal University of São Carlos (UFSCar)
-* [Elder Cirilo](https://dcomp.ufsj.edu.br/~elder/), from Federal University of São João Del Rey (UFSJ)
+* [Elder Cirilo](https://dcomp.ufsj.edu.br/~elder/), from Federal University of São João del-Rei (UFSJ)
 * [Ivan Machado](https://sites.google.com/view/ivanmachado), from Federal University of Bahia (UFBA)
