@@ -4,6 +4,10 @@ This repository contains the [language and citation dataset](dataset.md) for the
 
 These dataset and complementary material were created as part of the study described in the paper [A Decade of Internationalization of the Brazilian Symposium on Software Engineering: The Good, the Bad, and the Ugly](SBES_2022_final.pdf), accepted in the Research Track of SBES 2022.
 
+## Paper Presentation Video
+
+For those wondering if there is a presentation of the paper. Here is the it: [link for a presentations in Portuguese](https://www.youtube.com/watch?v=FoToxGRONH0)  
+
 ## Credits
 
 This repository was created and is maintained by [Nabor C. Mendonça](https://sites.google.com/site/nabormendonca/), from University of Fortaleza (UNIFOR), with the collaboration of the following researchers:
